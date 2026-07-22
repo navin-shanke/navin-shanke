@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:A855F7&text=Navin%20Avinash%20Shanke&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI-Powered%20Web%20Applications%20•%20Frontend%20Developer&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:60A5FA&text=Navin%20Avinash%20Shanke&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI-Powered%20Web%20Applications%20•%20Frontend%20Developer&descAlignY=63"/>
 
 # Hi 👋, I'm Navin Avinash Shanke
 
@@ -116,6 +116,5 @@ AI-powered smart farming ecosystem.
 
 > ### "Building intelligent software, one commit at a time."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:A855F7"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,25:0F172A,50:1D4ED8,75:2563EB,100:60A5FA"/>
 </div>
