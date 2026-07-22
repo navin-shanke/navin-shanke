@@ -28,31 +28,31 @@ Building modern web applications, AI-powered experiences, and scalable digital p
 
 ---
 
-# 💫 About Me
+# About Me
 
 I'm **Navin Avinash Shanke**, a Software Engineer passionate about building modern web applications and AI-powered digital experiences.
 
-- 💻 Building scalable applications with React & Next.js
-- 🤖 Exploring Artificial Intelligence & Automation
-- 🌱 Learning FastAPI, System Design & Cloud Computing
-- 🚀 Active Open Source Contributor
-- 🏆 Hackathon Enthusiast
-- 🎯 Building products that solve real-world problems
+- Building scalable applications with React & Next.js
+- Exploring Artificial Intelligence & Automation
+- Learning FastAPI, System Design & Cloud Computing
+- Active Open Source Contributor
+- Hackathon Enthusiast
+- Building products that solve real-world problems
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-- 🤖 AI Powered SaaS
-- 💼 Startup Products
-- 🌐 Full Stack Development
-- ☁️ Cloud Computing
-- ⚡ System Design
-- 🌍 Open Source
+- AI Powered SaaS
+- Startup Products
+- Full Stack Development
+- Cloud Computing
+- System Design
+- Open Source
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -62,23 +62,23 @@ I'm **Navin Avinash Shanke**, a Software Engineer passionate about building mode
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-### 🚀 EventOS
+### EventOS
 Modern event management platform with analytics, dashboards and automation.
 
-### 🎉 AYF 2026
+### AYF 2026
 Official website developed for Amravati Youth Festival.
 
-### 🤖 Opportunity Hunter
+### Opportunity Hunter
 AI-powered internship & job discovery platform.
 
-### 🌾 KrishiMitra
+### KrishiMitra
 AI-powered smart farming ecosystem.
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -88,7 +88,7 @@ AI-powered smart farming ecosystem.
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p align="center">
 
