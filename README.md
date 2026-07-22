@@ -1,24 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Navin%20Avinash%20Shanke&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI-Powered%20Web%20Applications%20•%20Frontend%20Developer&descAlignY=63"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:A855F7&text=Navin%20Avinash%20Shanke&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI-Powered%20Web%20Applications%20•%20Frontend%20Developer&descAlignY=63"/>
 
 # Hi 👋, I'm Navin Avinash Shanke
 
 ### Software Engineer • AI-Powered Web Applications • Frontend Developer
 
 <p>
-Passionate about building modern web applications that solve real-world problems through clean design, scalable architecture, and AI-driven experiences.
+Building modern web applications, AI-powered experiences, and scalable digital products.
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=8A2BE2&lines=Software+Engineer;Frontend+Developer;Building+AI-Powered+Applications;Open+Source+Contributor;Hackathon+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&center=true&vCenter=true&width=800&color=8B5CF6&lines=Software+Engineer;Frontend+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Modern+Web+Applications"/>
 
 <br>
 
-<a href="https://github.com/navinshanke06">
-<img src="https://img.shields.io/github/followers/navinshanke06?style=for-the-badge"/>
+<img width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+
+<br><br>
+
+<a href="https://github.com/navin-shanke">
+<img src="https://img.shields.io/github/followers/navin-shanke?style=for-the-badge&logo=github"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=navinshanke06&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=navin-shanke&style=for-the-badge&color=8B5CF6"/>
 
 </div>
 
@@ -26,25 +30,24 @@ Passionate about building modern web applications that solve real-world problems
 
 # 💫 About Me
 
-I'm **Navin Avinash Shanke**, a Software Engineer passionate about building AI-powered web applications, modern user experiences, and scalable digital products.
+I'm **Navin Avinash Shanke**, a Software Engineer passionate about building modern web applications and AI-powered digital experiences.
 
-- 💻 Building modern applications using React, Next.js & TypeScript
-- 🤖 Exploring Artificial Intelligence, Automation & LLMs
-- 🚀 Developing startup-focused products
-- 🌱 Learning Backend Architecture, FastAPI, System Design & Cloud
-- 🏆 Active Hackathon Participant
-- 🤝 Open to collaborating on Open Source and AI projects
-- 🎯 Mission: Build software that creates meaningful impact
+- 💻 Building scalable applications with React & Next.js
+- 🤖 Exploring Artificial Intelligence & Automation
+- 🌱 Learning FastAPI, System Design & Cloud Computing
+- 🚀 Active Open Source Contributor
+- 🏆 Hackathon Enthusiast
+- 🎯 Building products that solve real-world problems
 
 ---
 
 # 🚀 Current Focus
 
 - 🤖 AI Powered SaaS
+- 💼 Startup Products
 - 🌐 Full Stack Development
 - ☁️ Cloud Computing
-- ⚙️ System Design
-- 🚀 Startup Building
+- ⚡ System Design
 - 🌍 Open Source
 
 ---
@@ -53,7 +56,7 @@ I'm **Navin Avinash Shanke**, a Software Engineer passionate about building AI-p
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,mongodb,firebase,supabase,git,github,vscode,figma,postman,vercel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,python,mongodb,firebase,supabase,git,github,vscode,figma,postman,vercel&perline=8"/>
 
 </p>
 
@@ -62,22 +65,16 @@ I'm **Navin Avinash Shanke**, a Software Engineer passionate about building AI-p
 # 🌟 Featured Projects
 
 ### 🚀 EventOS
-Modern event management platform with registration, dashboards, analytics, and automation.
-
----
+Modern event management platform with analytics, dashboards and automation.
 
 ### 🎉 AYF 2026
-Official website developed for Amravati Youth Festival with a modern responsive interface.
-
----
+Official website developed for Amravati Youth Festival.
 
 ### 🤖 Opportunity Hunter
-AI-powered platform for discovering internships, jobs, and career opportunities.
-
----
+AI-powered internship & job discovery platform.
 
 ### 🌾 KrishiMitra
-AI-powered smart farming ecosystem helping farmers with intelligent recommendations.
+AI-powered smart farming ecosystem.
 
 ---
 
@@ -85,9 +82,9 @@ AI-powered smart farming ecosystem helping farmers with intelligent recommendati
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=navinshanke06&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navin-shanke&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinshanke06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin-shanke&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -97,30 +94,17 @@ AI-powered smart farming ecosystem helping farmers with intelligent recommendati
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navinshanke06&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navin-shanke&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 Core Expertise
-
-- Full Stack Development
-- Frontend Engineering
-- AI Integration
-- SaaS Product Development
-- UI/UX Design
-- REST APIs
-- System Design
-- Open Source
-
----
-
-# 📫 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/navinshanke06">
+<a href="https://github.com/navin-shanke">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -142,8 +126,8 @@ AI-powered smart farming ecosystem helping farmers with intelligent recommendati
 
 <div align="center">
 
-> **"Turning ideas into intelligent digital experiences, one project at a time."**
+> ### "Building intelligent software, one commit at a time."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,25:1E3A8A,50:2563EB,75:7C3AED,100:A855F7"/>
 
 </div>
