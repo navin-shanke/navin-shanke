@@ -1,132 +1,149 @@
-<h1 align="center">Hi 👋, I'm Navin Shanke</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • AI-Powered Web Applications • Frontend Developer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Navin%20Avinash%20Shanke&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20•%20AI-Powered%20Web%20Applications%20•%20Frontend%20Developer&descAlignY=63"/>
 
-<p align="center">
-I'm passionate about building modern web applications that solve real-world problems.
-Currently exploring AI-powered products, full-stack development, and startup ideas.
+# Hi 👋, I'm Navin Avinash Shanke
+
+### Software Engineer • AI-Powered Web Applications • Frontend Developer
+
+<p>
+Passionate about building modern web applications that solve real-world problems through clean design, scalable architecture, and AI-driven experiences.
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=750&color=8A2BE2&lines=Software+Engineer;Frontend+Developer;Building+AI-Powered+Applications;Open+Source+Contributor;Hackathon+Enthusiast;Always+Learning+New+Technologies"/>
+
+<br>
+
+<a href="https://github.com/navinshanke06">
+<img src="https://img.shields.io/github/followers/navinshanke06?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=navinshanke06&style=for-the-badge&color=blueviolet"/>
+
+</div>
+
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-- 💻 Building modern web applications using **React, Next.js & TypeScript**
-- 🤖 Exploring **AI integrations, Automation & Intelligent Web Experiences**
-- 🌱 Currently learning **Backend Architecture, FastAPI, System Design & Cloud**
+I'm **Navin Avinash Shanke**, a Software Engineer passionate about building AI-powered web applications, modern user experiences, and scalable digital products.
+
+- 💻 Building modern applications using React, Next.js & TypeScript
+- 🤖 Exploring Artificial Intelligence, Automation & LLMs
+- 🚀 Developing startup-focused products
+- 🌱 Learning Backend Architecture, FastAPI, System Design & Cloud
 - 🏆 Active Hackathon Participant
-- 🚀 Building products instead of tutorial projects
-- 🤝 Open to collaborating on **Open Source, AI & Startup Projects**
-- 🎯 Goal: Build software that people genuinely love using.
+- 🤝 Open to collaborating on Open Source and AI projects
+- 🎯 Mission: Build software that creates meaningful impact
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Current Focus
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+- 🤖 AI Powered SaaS
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- ⚙️ System Design
+- 🚀 Startup Building
+- 🌍 Open Source
 
 ---
 
-### Backend
+# 💻 Tech Stack
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,python,mongodb,firebase,supabase,git,github,vscode,figma,postman,vercel&perline=8"/>
 
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
 ### 🚀 EventOS
-Modern event management platform with dashboard, registration system, analytics and automation.
+Modern event management platform with registration, dashboards, analytics, and automation.
 
 ---
 
 ### 🎉 AYF 2026
-Official website developed for Amravati Youth Festival.
+Official website developed for Amravati Youth Festival with a modern responsive interface.
 
 ---
 
 ### 🤖 Opportunity Hunter
-AI-powered internship & job automation platform.
+AI-powered platform for discovering internships, jobs, and career opportunities.
 
 ---
 
 ### 🌾 KrishiMitra
-AI-powered smart farming ecosystem.
+AI-powered smart farming ecosystem helping farmers with intelligent recommendations.
 
 ---
 
-# 📈 Current Focus
-
-- AI Powered SaaS
-- Full Stack Development
-- System Design
-- Hackathons
-- Open Source
-- Startup Building
-
----
-
-# 🤝 Let's Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/navinshanke06">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:navinshanke@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/navinnnn.s/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
+# 📊 GitHub Analytics
 
 <p align="center">
 
-⭐ If you like my work, consider starring one of my repositories.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navinshanke06&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinshanke06&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navinshanke06&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Core Expertise
+
+- Full Stack Development
+- Frontend Engineering
+- AI Integration
+- SaaS Product Development
+- UI/UX Design
+- REST APIs
+- System Design
+- Open Source
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/navinshanke06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/navinshanke06">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:navinshanke@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.instagram.com/navinnnn.s/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"Turning ideas into intelligent digital experiences, one project at a time."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
